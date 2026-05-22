@@ -1,0 +1,3 @@
+[submodule "Robot-arm-Android-app"]
+	path = Robot-arm-Android-app
+	url = https://github.com/ngoctuan1207/Robot-arm-Android-app.git
