@@ -46,7 +46,7 @@ The robotic arm system architecture consists of:
 
 
 ## Full Demonstration Video
-[Watch on YouTube]([https://youtu.be/26i8T7e-IkA](https://youtu.be/WBqD1ZqwC8A?si=raEVwz-e9uBCVVol))
+[Watch on YouTube](https://youtu.be/WBqD1ZqwC8A?si=raEVwz-e9uBCVVol)
 
 ## Future Improvements
 - Closed-loop feedback control
