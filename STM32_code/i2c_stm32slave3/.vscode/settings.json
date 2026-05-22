@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "typeinfo": "cpp",
+        "functional": "cpp",
+        "cmath": "cpp",
+        "*.tcc": "cpp",
+        "exception": "cpp",
+        "memory_resource": "cpp",
+        "iosfwd": "cpp",
+        "new": "cpp",
+        "ostream": "cpp",
+        "streambuf": "cpp",
+        "system_error": "cpp",
+        "array": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "algorithm": "cpp"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "typeinfo": "cpp",
+        "functional": "cpp",
+        "cmath": "cpp",
+        "random": "cpp",
+        "ostream": "cpp",
+        "system_error": "cpp"
+    }
+}
