@@ -2,6 +2,7 @@
 
 ## Overview
 The goal of this project is to develop a cost-effective robotic arm system designed as an educational platform for student learning and hands-on training.
+
 <img width="1920" height="1080" alt="RobotArm_Thumbnail" src="https://github.com/user-attachments/assets/ca39acf6-b188-479f-a3a9-6c0199982647" />
 
 ## Technical Scope
@@ -40,7 +41,7 @@ The robotic arm system architecture consists of:
 - Integrated a pneumatic gripper for handling objects weighing under 1 kg
 - Integrated ESP32 wireless communication system
 - Developed Android-based robotic arm control application
-- 
+  
 <img width="6000" height="3375" alt="Robot arm comparision" src="https://github.com/user-attachments/assets/643d038c-a6c9-40a4-8858-c6df40547454" />
 
 ## Robot DH parameters
