@@ -45,14 +45,12 @@ The robotic arm system architecture consists of:
 
 ## Robot DH parameters
 <p align="center">
-  <img width="45%" alt="RobotDH" src="https://github.com/user-attachments/assets/1325e844-ef7f-4951-a0db-58cb3c46b2cf" />
-  <img width="45%" alt="RobotDHTable" src="https://github.com/user-attachments/assets/ab1320fe-1c13-4817-858d-8de0936da3ad" />
+  <img width="3791" alt="RobotDH" src="https://github.com/user-attachments/assets/1325e844-ef7f-4951-a0db-58cb3c46b2cf" />
 </p>
 
-
-
-
-
+<p align="center">
+  <img width="3322" alt="RobotDHTable" src="https://github.com/user-attachments/assets/ab1320fe-1c13-4817-858d-8de0936da3ad" />
+</p>
 
 ## Full Demonstration Video
 [Watch on YouTube](https://youtu.be/WBqD1ZqwC8A?si=raEVwz-e9uBCVVol)
